@@ -7,6 +7,7 @@ export enum Category {
   FANTASY = 'Fantasy',
 }
 
+// スキーマを定義
 @Schema({
   timestamps: true,
 })
